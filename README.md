@@ -1,9 +1,5 @@
 # Amazon-clone
 
-# link
-
-- https://nguyenvanduydev001.github.io/amazon-clone/
-
 # Trang chủ
 
 ![Trangchu](/image/1.png)
