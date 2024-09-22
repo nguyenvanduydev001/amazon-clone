@@ -1,28 +1,41 @@
-# Amazon-clone
+# Amazon Clone
 
-# Trang chủ
+A fully responsive Amazon clone website built with modern web technologies. This project replicates the core functionalities of the Amazon website, including user registration, product detail pages, and a dynamic shopping cart. The design adapts seamlessly across devices, offering an optimized user experience on both mobile and desktop platforms.
 
-![Trangchu](/image/1.png)
-<br />
+## Features
 
-# Trang đăng ký
+- **Home Page**: Showcasing featured products and categories.
+- **User Registration**: Secure sign-up and sign-in functionality.
+- **Product Detail Pages**: Detailed product descriptions with pricing and reviews.
+- **Shopping Cart**: Interactive cart system allowing users to add, remove, and view items.
+- **Responsive Design**: Optimized for all screen sizes, ensuring usability on mobile, tablet, and desktop.
 
-![Trangdangky](/image/2.png)
-<br />
+## Preview
 
-# Trang chi tiết sản phẩm
+### Trang chủ
 
-![Trangchitiet](/image/3.png)
-<br />
+![Trang chủ](./image/1.png)
 
-# Trang giỏ hàng
+### Trang đăng ký
 
-![Tranggiohang](/image/4.png)
-<br />
+![Trang đăng ký](./image/2.png)
 
-# Reponsive
+### Trang chi tiết sản phẩm
 
-![Reponsive](/image/5.png)
-<br />
+![Trang chi tiết sản phẩm](./image/3.png)
 
-[Live demo](https://nguyenvanduydev001.github.io/amazon-clone/)
+### Trang giỏ hàng
+
+![Trang giỏ hàng](./image/4.png)
+
+### Responsive Design
+
+![Responsive](./image/5.png)
+
+## Live Demo
+
+Check out the live version of the project here: [Live Demo](https://nguyenvanduydev001.github.io/amazon-clone/)
+
+---
+
+Feel free to explore the code and experience the functionalities live by cloning this repository.
